@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Dot</title>
+</head>
+<body>
+  <div class="dot"></div>
+</body>
+</html>
+.dot {
+  width: 100px;
+  height: 100px;
+  background-color: red;
+  border-radius: 50%;
+}
+<link rel="stylesheet" type="text/css" href="style.css">
